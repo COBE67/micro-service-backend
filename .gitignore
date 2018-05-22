@@ -1,0 +1,8 @@
+node_modules
+.idea
+.DS_Store
+.idea/codeStyles/
+.idea/micro-service.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
